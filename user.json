@@ -1,0 +1,122 @@
+[
+    {
+        "username": "alicia36",
+        "password": "$2b$12$Esp1CdxQFNtzHIw81yfP6OExUXsv83/ljYtgeF/oJs9hM7TPdzihC",
+        "profile": {
+            "job_interest": "Data Science",
+            "interests": "AI",
+            "project_description": "Wish manager tell ok.",
+            "skills": "C#, .NET",
+            "job_level": "Mid Level",
+            "knowledge_depth": 5
+        }
+    },
+    {
+        "username": "rogersjennifer",
+        "password": "$2b$12$zHdYAuvaHJJcaBk8phyicu0E9o6EYNd2aKeNLFJNtybWsFPMo0ZzC",
+        "profile": {
+            "job_interest": "Mobile Development",
+            "interests": "Machine Learning",
+            "project_description": "Allow hospital make add detail make foreign.",
+            "skills": "C#, .NET",
+            "job_level": "Senior Level",
+            "knowledge_depth": 3
+        }
+    },
+    {
+        "username": "heather12",
+        "password": "$2b$12$bb6zgSw8LTPdgFsQjZ2ULeTAoXmkeSD3PW4J3ePdU/TBsqjWk9Hiu",
+        "profile": {
+            "job_interest": "Data Science",
+            "interests": "Blockchain",
+            "project_description": "Difference language risk military pass despite draw.",
+            "skills": "Java, Kotlin",
+            "job_level": "Manager",
+            "knowledge_depth": 5
+        }
+    },
+    {
+        "username": "dianaward",
+        "password": "$2b$12$HuMsO.gQJDKdlPBb9oU4NeZPTNbHKNNWE0qraCbdLVCFn01fWJoCe",
+        "profile": {
+            "job_interest": "Data Science",
+            "interests": "AI",
+            "project_description": "Until necessary interview whether quickly which.",
+            "skills": "C#, .NET",
+            "job_level": "Mid Level",
+            "knowledge_depth": 9
+        }
+    },
+    {
+        "username": "ibenton",
+        "password": "$2b$12$5s7Llrl70Kr6UpEfBVt17eSWS6lygJLAnUs.X8v7/TnOEA2mudgIS",
+        "profile": {
+            "job_interest": "Mobile Development",
+            "interests": "Blockchain",
+            "project_description": "Before friend agreement someone.",
+            "skills": "JavaScript, React",
+            "job_level": "Entry Level",
+            "knowledge_depth": 7
+        }
+    },
+    {
+        "username": "thomasdavis",
+        "password": "$2b$12$W3uVHPktQmP8yE.0EPA1euOb2.QoHJnFbFfKZIJhOQULCQqbi0g2C",
+        "profile": {
+            "job_interest": "Web Development",
+            "interests": "Cloud Computing",
+            "project_description": "Nation indeed amount recent.",
+            "skills": "Python, R, SQL",
+            "job_level": "Manager",
+            "knowledge_depth": 4
+        }
+    },
+    {
+        "username": "laurawilliams",
+        "password": "$2b$12$RZweJ2teH.ZJ9fnpZM3ohehKc2zfQmKkLE7BwHfFiVeb6LTxI0Giq",
+        "profile": {
+            "job_interest": "Cybersecurity",
+            "interests": "AI",
+            "project_description": "Mother value blue animal.",
+            "skills": "Java, Kotlin",
+            "job_level": "Senior Level",
+            "knowledge_depth": 6
+        }
+    },
+    {
+        "username": "michaelbrown",
+        "password": "$2b$12$DkNSyL3UZ8a3IyAftBmZeOo9F/Z.P4Tiy4Fp6C2rkKO3TDTYVFO/S",
+        "profile": {
+            "job_interest": "Data Science",
+            "interests": "Machine Learning",
+            "project_description": "Future series quite prepare.",
+            "skills": "JavaScript, React",
+            "job_level": "Internship",
+            "knowledge_depth": 2
+        }
+    },
+    {
+        "username": "edwinlopez",
+        "password": "$2b$12$tHYG.JkNjlat.ou3BQbhUexHWQSRW9G9XdgqITQCj/H.AR.fOFIwu",
+        "profile": {
+            "job_interest": "Cybersecurity",
+            "interests": "Machine Learning",
+            "project_description": "Always you compare arm growth.",
+            "skills": "Python, R, SQL",
+            "job_level": "Mid Level",
+            "knowledge_depth": 8
+        }
+    },
+    {
+        "username": "susanbridges",
+        "password": "$2b$12$5I030sp/BjTUhbmDp76M8uQs7o60d5bs6yHChucrB9ddBBjDgdxyi",
+        "profile": {
+            "job_interest": "Web Development",
+            "interests": "AI",
+            "project_description": "Record keep much require.",
+            "skills": "C#, .NET",
+            "job_level": "Senior Level",
+            "knowledge_depth": 9
+        }
+    }
+]
